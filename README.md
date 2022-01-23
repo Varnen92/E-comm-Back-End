@@ -13,6 +13,9 @@ A showcase of a functional backend database that allows for manipulation of vari
 ## Tested With
 * Insomnia
 
+## Screenshot of functionality
+<a href="http://www.simpleimageresizer.com/_uploads/photos/8dc2a210/E-Comm_900x650.png"></a>
+
 ## Video of working product
 https://watch.screencastify.com/v/jguej4id7m57kwc5xFEF
 
